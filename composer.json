@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mikehaertl/phpwkhtmltopdf": "^2.4",
+        "voku/simple_html_dom": "^4.7"
+    }
+}
